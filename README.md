@@ -1,16 +1,12 @@
-# braindump
+# BrainDump
 
-A new Flutter project.
+A final Flutter project for the completion of CS 4750 Spring course
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project is for people who like to journal, but want to absolutely remember anything. One of the unique features is that the user cannot edit or delete a feature after the day it is written. This allows the app to act like a time capsule of thoughts. Another problem it solve is it is a portable mini journal that doesn't hurt your hand when the user has to write a lot of material for their thoughts.
 
-A few resources to get you started if this is your first Flutter project:
+## Notes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This Flutter application utilizes the google cloud firebase to save the users' journal entries in a unique device. There are also two different views of journal entries for the users to prefer, it starts with a homepage with a calendar, if an entry exists on a date, then the app takes the user to that entry page when clicked. THe other view is in a side drawer where the user may view or delete journal entries by clicking the component.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
