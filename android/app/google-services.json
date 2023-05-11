@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922431872585",
+    "project_id": "braindump-89df6",
+    "storage_bucket": "braindump-89df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922431872585:android:fadc8d604ca650f76de998",
+        "android_client_info": {
+          "package_name": "edu.cpp.braindump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922431872585-ofgp70fr93lltbe5ov4v799b5frgteou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8PCZiPmy7F7lrSSDWy83PlCsUH4wM18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922431872585-ofgp70fr93lltbe5ov4v799b5frgteou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
